@@ -1,0 +1,48 @@
+.bg-blue{
+    background-color: rgb(0, 153, 255);
+    border: 1px solid black;
+}
+.bg-red{
+    background-color: red;
+    border: 1px solid black;
+}
+
+.bg-green{
+    background-color: rgb(42, 199, 28);
+    border: 1px solid black;
+}
+
+.bg-pink{
+    background-color: pink;
+    border: 1px solid black;
+}
+
+.bg-aqua{
+    background-color: aqua;
+    border: 1px solid black;
+}
+
+.bg-gray{
+    background-color: gray;
+    border: 1px solid black;
+}
+
+.height-1cm{
+    height: 1cm;
+}
+
+.height-2cm{
+    height: 2cm;
+}
+
+.height-3cm{
+    height: 3cm;
+}
+
+.height-5cm{
+    height: 5cm;
+}
+
+.height-10cm{
+    height: 10cm;
+}
