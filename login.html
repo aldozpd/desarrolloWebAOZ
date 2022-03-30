@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Login</title>
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/styles.css">
+    <script src="js/login.js"></script>
+</head>
+<body>
+    <form>
+        <div class="mb-3">
+          <label for="exampleInputEmail1" class="form-label">Email address</label>
+          <input type="text" class="" id="user" onchange="classValidation()">
+          <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+        </div>
+        <div class="mb-3">
+          <label for="exampleInputPassword1" class="form-label">Password</label>
+          <input type="password" class="" id="pass" onchange="classValidation()">
+        </div>
+        <button type="submit" class="btn btn-primary" onclick="dataValidate()">Submit</button>
+      </form>
+</body>
+</html>
