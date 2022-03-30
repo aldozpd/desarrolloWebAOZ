@@ -46,3 +46,11 @@
 .height-10cm{
     height: 10cm;
 }
+
+.error-border{
+    border: 1px solid red;
+}
+
+.success-border{
+    border: 1px solid green;
+}
